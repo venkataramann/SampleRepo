@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0-UFT_14
+Project("") = "Main_Test", "Main_Test\Test.tsp", "10C4946D-2610-4EAD-9444-32FBAE274798"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\enarave\Documents\GitHub\SampleRepo\Solution\Main_Test\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		10C4946D-2610-4EAD-9444-32FBAE274798.Debug|Any CPU.Build.0 = Debug|Any CPU
+		10C4946D-2610-4EAD-9444-32FBAE274798.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		10C4946D-2610-4EAD-9444-32FBAE274798.Release|Any CPU.Build.0 = Release|Any CPU
+		10C4946D-2610-4EAD-9444-32FBAE274798.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(Function Libraries) = postProject
+		Fun_Library_01 = C:\Users\enarave\Documents\GitHub\SampleRepo\Functions\Fun_Library_01.qfl
+	EndGlobalSection
+EndGlobal
